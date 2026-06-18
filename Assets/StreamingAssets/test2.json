@@ -1,0 +1,17 @@
+{
+    "songName": "NewSong",
+    "Artist": "",
+    "audioFileName": "NewSong.mp3",
+    "bpm": 190.0,
+    "Level": 1,
+    "difficulty": "Easy",
+    "songOffset": 0.6000000238418579,
+    "notes": [
+        {
+            "time": 0.31578946113586428,
+            "lane": 4
+        }
+    ],
+    "longNotes": [],
+    "gearEvents": []
+}
